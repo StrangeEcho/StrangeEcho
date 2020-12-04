@@ -1,7 +1,7 @@
 ## YO!
 Im Tyler. Nice to Meet you.
 
-- 🔭 I’m currently working on: [HimejiBot](https://github.com/Yat-o/HimejiBot)Just another Discord.py Bot
+- 🔭 I’m currently working on: [HimejiBot](https://github.com/Yat-o/HimejiBot). Just another Discord.py Bot
 - 🌱 I’m currently learning: Git(Version Control), Python, C#, JS(Maybe)
 - 👯 I’m looking to collaborate on: Any Python Projects that are intermediate friendly
 - 💬 Ask me about: Anime and hent~
