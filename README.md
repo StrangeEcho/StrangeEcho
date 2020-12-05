@@ -8,6 +8,7 @@ Im Tyler. Nice to Meet you.
 - 📫 How to reach me: Discord(@Tylerr#6979)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Idk
+- 🔭🔭 Side Projects: [BotForCata](https://github.com/Yat-o/BotForCata). Just an experiemental bot im trying to make for [Cataclym](https://github.com/Cataclym/)
 
 
 ## Stats(Kinda Suck)
