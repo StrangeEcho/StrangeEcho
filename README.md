@@ -15,7 +15,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Idk
 
-### All the things I've used to far
+### All the things I've used so far
 
 [![Python](https://img.shields.io/static/v1?style=for-the-badge&logo=Python&logoColor=FFFFFF&message=Python&color=3776AB&label=)](https://www.python.org/)
 [![VSCode](https://img.shields.io/static/v1?style=for-the-badge&logo=Visual+Studio+Code&logoColor=FFFFFF&message=VS&nbsp;Code&color=007ACC&label=)](https://code.visualstudio.com/)
