@@ -75,7 +75,4 @@
   <a href="https://github.com/Yat-o">
     <img alt="Followers" src="https://img.shields.io/github/followers/Yat-o?color=red&label=Followers&style=flat-square">
   </a>
-  <a href="https://github.com/Yat-o/Yat-o/actions">
-    <img alt="Build" src="https://img.shields.io/github/workflow/status/Yat-o/Yat-o/Update%20README?style=flat-square">
-  </a>
 </p>
