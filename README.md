@@ -7,7 +7,7 @@
 <img src="http://24.media.tumblr.com/368f0e7950c3534404a67281dcb7f1e8/tumblr_mr2q5iJZ7c1serwm7o1_500.gif" align="right" width="380px">
 
 ### Things About Me
-🔭 I’m currently working on: [HimejiBot](https://github.com/Yat-o/HimejiBot). Just another Discord.py Bot
+- 🔭 I’m currently working on: [HimejiBot](https://github.com/Yat-o/HimejiBot). Just another Discord.py Bot
 - 🌱 I’m currently learning: Git(Version Control), Python, C#, JS(Maybe)
 - 👯 I’m looking to collaborate on: Any Python Projects that are intermediate friendly
 - 💬 Ask me about: Anime and hent~
