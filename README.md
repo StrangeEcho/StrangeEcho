@@ -31,13 +31,13 @@
     <img align="left" alt="Discord" title="Tylerr#6979" width="30px" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png">
   </a>
   <a href="https://myanimelist.net/profile/Tylerr_">
-    <img align="left" alt="MyAnimeList" title="Yat-o" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/MyAnimeList_Logo.png">
+    <img align="left" alt="MyAnimeList" title="Tylerr_" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/MyAnimeList_Logo.png">
   </a>
   <a href="https://www.reddit.com/user/__Tylerr">
-    <img align="left" alt="Reddit" title="Yat-o" width="30px" src="https://rdwgroup.com/wp-content/uploads/2018/10/reddit2-800x450-1.png">
+    <img align="left" alt="Reddit" title="__Tylerr" width="30px" src="https://rdwgroup.com/wp-content/uploads/2018/10/reddit2-800x450-1.png">
   </a>
   <a href="https://steamcommunity.com/profiles/76561198271731714">
-    <img align="left" alt="Steam" title="Yat-o" width="30px" src="https://www.greenmangaming.com/newsroom/wp-content/uploads/2019/11/steam-valve-blog.jpg">
+    <img align="left" alt="Steam" title="Tylerr" width="30px" src="https://www.greenmangaming.com/newsroom/wp-content/uploads/2019/11/steam-valve-blog.jpg">
   </a>
 </p>
 <br>
