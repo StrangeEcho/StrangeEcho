@@ -47,10 +47,11 @@
 <details close>
 <summary>GitHub Statistics 📊</summary>
 <br>
-<p>
+<p> 
   <a href="https://github.com/Yat-o" width="100%">
     <img alt="GitHub Stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yat-o&count_private=true&show_icons=true&theme=radical">
     <img alt="GitHub Stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=Yat-o&show_icons=true&theme=radical">
+    <img alt="GitHub Activity Chart" height="250px" src="https://activity-graph.herokuapp.com/graph?username=Yat-o&bg_color=292d3e&color=a6accd&line=c692e8&point=88ddff&area=true">
   </a>
 </p>
 </details>
