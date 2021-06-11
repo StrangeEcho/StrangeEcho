@@ -22,8 +22,9 @@
 [![Git](https://img.shields.io/static/v1?style=for-the-badge&logo=Git&message=Git&logoColor=FFFFFF&color=F05032&label=)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge&logo=GitHub&message=GitHub&logoColor=FFFFFF&color=181717&label=)](https://github.com/)
 [![PyCharm](https://img.shields.io/static/v1?style=for-the-badge&logo=PyCharm&logoColor=FFFFFF&message=PyCharm&color=000000&label=)](https://www.jetbrains.com/pycharm/)
+[![Rider](https://img.shields.io/static/v1?style=for-the-badge&logo=Rider&logoColor=FFFFFF&message=Rider&color=000000&label=)](https://www.jetbrains.com/rider/)
 [![Windows](https://img.shields.io/static/v1?style=for-the-badge&logo=Windows&logoColor=FFFFFF&message=Windows&color=00adef&label=)](https://www.microsoft.com/en-us/windows)
-
+[![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&logo=Ubuntu&logoColor=FFFFFF&message=Ubuntu&color=F05032&label=)](https://ubuntu.com)
 ### Connection Methods
 
 <p>
