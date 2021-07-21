@@ -4,7 +4,7 @@
 
 ---
 
-<img src="https://images6.fanpop.com/image/photos/37600000/Baka-to-Test-baka-to-test-to-shoukanjuu-37693293-500-281.gif" align="right" width="380px">
+<img src="https://i.imgur.com/HzulYxP.gif" align="right" width="380px">
 
 ### Things About Me
 - 🔭 I’m currently working on: [HimejiBot](https://github.com/Yat-o/HimejiBot). Just another Discord.py Bot
