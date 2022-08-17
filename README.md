@@ -7,7 +7,7 @@
 <img src="https://i.imgur.com/HzulYxP.gif" align="right" width="380px">
 
 ### Things About Me
-- 🔭 I’m currently working on: [Kurisu](https://github.com/Yat-o/HimejiBot). Just another Discord.py Bot
+- 🔭 I’m currently working on: [Asahi](https://github.com/Yat-o/Asahi). Just another Discord.py Bot
 - 🌱 I’m currently learning: Git(Version Control), Python, C#, JS(Maybe)
 - 👯 I’m looking to collaborate on: Any Python Projects that are intermediate friendly
 - 💬 Ask me about: Anime and hent~
